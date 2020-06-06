@@ -1,0 +1,144 @@
+ 
+        #container {
+            width: 90%;
+            min-height: 600px;
+            margin: 10px auto;
+            border: #CCC solid 1px;
+            background: #003366;
+        }
+        
+        #container .header {
+            height: 100px;
+            background: #003399;
+            font-size: 14px;
+            color: #fff;
+            padding: 10px;
+        }
+
+        #container .menu {
+            height: 50px;
+            background: #888;
+            font-size: 14px;
+            color: #fff;
+        }
+
+        #container .menu ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        #container .menu ul li a {
+            min-width: 100px;
+            height: 30px;
+            float: left;
+            padding-top: 8px;
+            margin: 5px;
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+            background: #003399;
+            text-decoration: none;
+        }
+
+        #container .menu ul li a:hover {
+            font-size: 16px;
+            background: #000;
+        }
+
+        #container .konten {
+            min-height: 400px;
+            background:#ccc;
+        }
+
+        #container .konten .konten-kiri {
+            width: 70%;
+            min-height: 400px;
+            border: #fff solid 1px;
+            float: left;
+            background: #f5f5f5;
+        }
+        
+        #container .konten .konten-kanan {
+            width: 28%;
+            min-height: 400px;
+            float: right;
+            background: #f5f5f5;
+        }
+
+        #container .footer {
+            text-align: center;
+            color: #ffff;
+            font-size: 12px;
+            height: 80px;
+            padding-top: 15px;
+        }
+
+        .feedberita {
+            padding: 10px;
+            border: #ccc solid 1px;
+            border-radius: 10px;
+            background: #ccc;
+            height: auto;
+        }
+
+        .login {
+            background: #003390;
+            font-size: 16px;
+            margin: 20px auto;
+            width: 400px; 
+            padding: 15px; 
+        }
+
+        .login h2{
+            color: #fff;
+        }
+
+        .login .input {
+            width: 100%;
+            height: 30px;
+            padding: 5px;
+            font-size: 18px;
+            margin-top:5px;
+            
+        }
+
+        .login button {
+            width: 100%;
+            height: 30px;
+            background: #17A23DE3;
+            color: #FFF;
+            font-size: 16px;
+            border-radius:10px ;
+            border:#000 solid 1px;
+            margin-top: 15px;
+        }
+        
+        .login button:hover {
+            background: #000;
+
+
+        }
+
+        .konten-kanan ul {
+            list-style: none;
+            margin: 0;
+            padding: 0;
+        }
+
+        .konten-kanan ul li a {
+            width: 100%;
+            height: 30px;
+            float: left;
+            color: #fff;
+            text-align: center;
+            font-size: 14px;
+            background: #003399;
+            text-decoration: none;
+        }
+
+        .konten-kanan ul li a:hover {
+            font-size: 16px;
+            background: #000;
+        }
+        
